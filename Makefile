@@ -1,4 +1,4 @@
-NAME = thenets/opendata-salarios-magistrados
+NAME = thenets/brasilio-python
 TAG = latest
 SHELL = /bin/bash
 
